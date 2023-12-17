@@ -4,7 +4,7 @@
 
 Welcome to the PEFT (Pretraining-Evaluation Fine-Tuning) project repository! This project focuses on efficiently fine-tuning large language models using LoRA and Hugging Face's transformers library.
 
-![](https://huggingface.co/datasets/trl-internal-testing/example-images/resolve/main/images/trl_overview.png)
+<!-- ![](https://huggingface.co/datasets/trl-internal-testing/example-images/resolve/main/images/trl_overview.png) -->
 
 ## Fine Tuning Notebook Table 📑
 
@@ -22,4 +22,4 @@ This project is licensed under the [MIT License](LICENSE). -->
 
 ---
 
-Created with ❤️ by [Ashish](https://github.com/chiragjoshi12)
+Created with ❤️ by [Chirag](https://github.com/chiragjoshi12)
